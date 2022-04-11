@@ -1,0 +1,6 @@
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\bin\Debug\Classes.dll
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\bin\Debug\Classes.pdb
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\obj\Debug\Classes.dll
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\obj\Debug\Classes.pdb
+C:\source\repos\Skola\Kurs2_Uppgifter\Labb1Egen\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
